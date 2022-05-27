@@ -1,0 +1,13 @@
+C:\Users\Nubia\Desktop\ProyectoSnake\bin\Debug\netcoreapp3.1\ProyectoSnake.exe
+C:\Users\Nubia\Desktop\ProyectoSnake\bin\Debug\netcoreapp3.1\ProyectoSnake.deps.json
+C:\Users\Nubia\Desktop\ProyectoSnake\bin\Debug\netcoreapp3.1\ProyectoSnake.runtimeconfig.json
+C:\Users\Nubia\Desktop\ProyectoSnake\bin\Debug\netcoreapp3.1\ProyectoSnake.runtimeconfig.dev.json
+C:\Users\Nubia\Desktop\ProyectoSnake\bin\Debug\netcoreapp3.1\ProyectoSnake.dll
+C:\Users\Nubia\Desktop\ProyectoSnake\bin\Debug\netcoreapp3.1\ProyectoSnake.pdb
+C:\Users\Nubia\Desktop\ProyectoSnake\obj\Debug\netcoreapp3.1\ProyectoSnake.csprojAssemblyReference.cache
+C:\Users\Nubia\Desktop\ProyectoSnake\obj\Debug\netcoreapp3.1\ProyectoSnake.AssemblyInfoInputs.cache
+C:\Users\Nubia\Desktop\ProyectoSnake\obj\Debug\netcoreapp3.1\ProyectoSnake.AssemblyInfo.cs
+C:\Users\Nubia\Desktop\ProyectoSnake\obj\Debug\netcoreapp3.1\ProyectoSnake.csproj.CoreCompileInputs.cache
+C:\Users\Nubia\Desktop\ProyectoSnake\obj\Debug\netcoreapp3.1\ProyectoSnake.dll
+C:\Users\Nubia\Desktop\ProyectoSnake\obj\Debug\netcoreapp3.1\ProyectoSnake.pdb
+C:\Users\Nubia\Desktop\ProyectoSnake\obj\Debug\netcoreapp3.1\ProyectoSnake.genruntimeconfig.cache
